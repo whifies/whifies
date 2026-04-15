@@ -1,3 +1,4 @@
+
 <div align="center">
 
 [![Hits](https://hits.sh/github.com/whifies.svg?label=mace%20attack%20!!&color=7c2ca5&labelColor=2b2a2a)](https://hits.sh/github.com/whifies/)
@@ -13,9 +14,10 @@
 [rentry](https://rentry.co/whifiesistaken)⠀︵︵✧₊ ︵︵⠀[atabook](https://whifies.atabook.org/)
 <br>
 <br>
-<a href="https://x.com/1urhearts/status/2036314600736694543">
-  <img width="400" src="https://github.com/user-attachments/assets/7f2e3900-ee5b-4cbe-b6c2-a639862d413b"/>
+<a href="https://x.com/meradrop/status/2009845284076138992">
+  <img width="470" height="480" src="https://github.com/user-attachments/assets/7a89c4de-ef42-4456-968b-15c112285482" />
 </a>  
+hello phaidei
 
 <a href="https://dividers-are-us.tumblr.com/post/792459290958053380/minimalist-celestial-dividers">
 <img width="1200" height="70" src="https://github.com/user-attachments/assets/8b9e302e-508e-4302-b4b7-6746ede678ee" />

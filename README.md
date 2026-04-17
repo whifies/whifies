@@ -11,7 +11,7 @@
   <img width="630" height="300" src="https://github.com/user-attachments/assets/b6baa13a-c7ce-4c0d-aa9c-ad259d6799ce"/>
 </a>
 
-[rentry](https://rentry.co/whifiesistaken)⠀︵︵✧₊ ︵︵⠀[atabook](https://whifies.atabook.org/)
+[rentry](https://rentry.co/whifiess)⠀︵︵✧₊ ︵︵⠀[atabook](https://whifies.atabook.org/)
 <br>
 <br>
 <a href="https://x.com/meradrop/status/2009845284076138992">

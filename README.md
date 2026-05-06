@@ -8,7 +8,7 @@
 ━━━━━━･❪ 🎕 ❫ ･━━━━━━ 
 
 <a href="https://www.tumblr.com/donsiur/807417493587099648/something-something-about-me-thinking-about-this?source=share">
-  <img width="630" height="300" src="https://github.com/user-attachments/assets/b6baa13a-c7ce-4c0d-aa9c-ad259d6799ce"/>
+  <img width="630" src="https://github.com/user-attachments/assets/b6baa13a-c7ce-4c0d-aa9c-ad259d6799ce"/>
 </a>
 
 [rentry](https://rentry.co/whifiess)⠀︵︵✧₊ ︵︵⠀[atabook](https://whifies.atabook.org/)
@@ -19,12 +19,4 @@
 </a>  
 hello phaidei
 
-<a href="https://dividers-are-us.tumblr.com/post/792459290958053380/minimalist-celestial-dividers">
-<img width="1200" height="70" src="https://github.com/user-attachments/assets/8b9e302e-508e-4302-b4b7-6746ede678ee" />
-</a>
-
-<br>
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=jz0gvocojptqelcw2n07oxb4f&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jz0gvocojptqelcw2n07oxb4f&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=53b14f" width="350"/>
-  </a>
 </div>
